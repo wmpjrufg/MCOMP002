@@ -1,11 +1,11 @@
-title: MCOMP0001
+title: MCOMP0002
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Arquivos: https://github.com/wmpjrufg/MCOMP001/tree/main/files
+  Arquivos: https://github.com/wmpjrufg/MCOMP002/tree/main/files
 
 color_scheme: nil
 
