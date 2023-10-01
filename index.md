@@ -7,24 +7,22 @@ nav_order: 1
 <h1>O que vamos ver?!</h1>
 
 <p align = "justify">
-Este é o curso de Métodos Computacionais parte 1 (<i>MCOMP0001</i>) e tem como objetivo central oferecer aos alunos uma introdução a programação em <b>Python</b> que será a linguagem empregada ao longo de todo o curso.<br><br>
+Este é o curso de Métodos Computacionais parte 1 (<i>MCOMP0002</i>) e tem como objetivo central oferecer aos alunos uma introdução à Ciência de Dados com programação em <b>Python</b> que será a linguagem empregada ao longo de todo o curso.<br><br>
 
-Este curso é ministrado pelo professor <a href="http://lattes.cnpq.br/2268506213083114" target = "_blank" rel = "noopener noreferrer">Wanderlei Junior</a> e também foi construído com ajuda de diversos alunos do grupo de pesquisa GPEE.<br><br>
+Este curso é ministrado pelo professores <a href="http://lattes.cnpq.br/2268506213083114" target = "_blank" rel = "noopener noreferrer">Wanderlei Malaquias Pereira Junior</a>, <a href="http://lattes.cnpq.br/5115002204148904" target = "_blank" rel = "noopener noreferrer">Maria José Pereira Dantas</a> e também foi construído com ajuda de diversos alunos do grupo de pesquisa GPEE.<br><br>
 
-Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço para o seguinte conteúdo:
+Nesta etapa que chamaremos pelo código <i>MCOMP2</i> será destinado um espaço para o seguinte conteúdo:
 </p>
 
 <table>
   <tr>
     <td style = "width:70%;">
         <ol>
-            <li>Introdução à lógica;</li>
-            <li>Expressões e operadores;</li>
-            <li>Estrutras de controle;</li>
-            <li>Estrutras homogêneas;</li>
-            <li>Estrutras especiais;</li>
-            <li>Manipulação de arquivos;</li>
-            <li>Paradigmas.</li>
+            <li>Leitura de dados;</li>
+            <li>Entendendo os dados e definindo tarefa;</li>
+            <li>Limpeza, organizações e transformações em bases de dados;</li>
+            <li>Visualização dos dados;</li>
+            <li>Separação de dados para treino, validação e teste;</li>
         </ol>
     </td>
     <td style = "width:30%;"><center><img src = "assets/images/fig00.png" width = "60%"></center></td>
